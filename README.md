@@ -403,27 +403,6 @@ Result QR code
   <figure style="margin:0; width:360px; max-width:48%;">
     <a href="assets/khqr_khr.png">
       <img src="assets/khqr_khr.png" alt="KHQR KHR" style="width:100%; height:auto; border:1px solid #ddd; border-radius:4px;" />
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; align-items:flex-start; width:100%; box-sizing:border-box;">
-  <figure style="margin:0; flex:1 1 300px; max-width:480px; box-sizing:border-box;">
-    <a href="vendor/bakong-khqr-image/assets/khqr_khr.png" style="text-decoration:none; display:block;">
-      <img src="vendor/bakong-khqr-image/assets/khqr_khr.png" 
-           alt="KHQR KHR" 
-           style="width:100%; height:auto; border:1px solid #ddd; border-radius:4px; display:block; box-sizing:border-box;">
-    </a>
-  </figure>
-
-  <figure style="margin:0; width:360px; max-width:48%;">
-    <a href="assets/khqr_usd.png">
-      <img src="assets/khqr_usd.png" alt="KHQR USD" style="width:100%; height:auto; border:1px solid #ddd; border-radius:4px;" />
-    </a>
-  </figure>
-</div>
-----------------------------------------------------------------
-<!-- Inline images with clickable preview and download buttons -->
-<div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
-  <figure style="margin:0; width:360px; max-width:48%;">
-    <a href="assets/khqr_khr.png">
-      <img src="assets/khqr_khr.png" alt="KHQR KHR" style="width:100%; height:auto; border:1px solid #ddd; border-radius:4px;" />
     </a>
   </figure>
 
