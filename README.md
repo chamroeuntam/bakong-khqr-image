@@ -397,24 +397,18 @@ file_put_contents(__DIR__ . '/khqr_code.png', $qrImage);
 echo "QR image saved to khqr_code.png\n";
 ```
 Result QR code
-<<<<<<< HEAD
 ----------------------------------------------------------------
 <!-- Inline images with clickable preview and download buttons -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
   <figure style="margin:0; width:360px; max-width:48%;">
     <a href="assets/khqr_khr.png">
       <img src="assets/khqr_khr.png" alt="KHQR KHR" style="width:100%; height:auto; border:1px solid #ddd; border-radius:4px;" />
-=======
-<<<<<<< HEAD
-
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; align-items:flex-start; width:100%; box-sizing:border-box;">
-  
   <figure style="margin:0; flex:1 1 300px; max-width:480px; box-sizing:border-box;">
     <a href="vendor/bakong-khqr-image/assets/khqr_khr.png" style="text-decoration:none; display:block;">
       <img src="vendor/bakong-khqr-image/assets/khqr_khr.png" 
            alt="KHQR KHR" 
            style="width:100%; height:auto; border:1px solid #ddd; border-radius:4px; display:block; box-sizing:border-box;">
->>>>>>> 55ef8ff (update)
     </a>
   </figure>
 
@@ -424,11 +418,6 @@ Result QR code
     </a>
   </figure>
 </div>
-
-<<<<<<< HEAD
-=======
-
-=======
 ----------------------------------------------------------------
 <!-- Inline images with clickable preview and download buttons -->
 <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:flex-start;">
@@ -444,9 +433,6 @@ Result QR code
     </a>
   </figure>
 </div>
-
->>>>>>> 55c37a8 (update)
->>>>>>> 55ef8ff (update)
 ## Testing
 
 To run the tests:
